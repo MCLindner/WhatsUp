@@ -1,0 +1,8 @@
+RUNNING WHATSUP:
+Open the WhatsUp directory and run WhatsUp.py: 
+python WhatsUp.py
+or 
+chmod +x WhatsUp.py then ./WhatsUp.py
+
+OUTPUTS:
+A list of the currently visible stars and constellations will be generated in the Outputs folder, along with a plot of the right ascentions and declinations of the visible objects.
